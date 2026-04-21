@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">स्मार्टबस</string>
+    <string name="title_home">होम</string>
+    <string name="title_track">ट्रैक बस</string>
+    <string name="title_pass">पास</string>
+    <string name="title_profile">प्रोफाइल</string>
+
+    <string name="menu_home">होम</string>
+    <string name="menu_track">ट्रैक</string>
+    <string name="menu_pass">पास</string>
+    <string name="menu_profile">प्रोफाइल</string>
+
+    <string name="hello_user">नमस्ते, %1$s! 👋</string>
+    <string name="home_subtitle">योजना बनाएं, ट्रैक करें और समझदारी से यात्रा करें।</string>
+    <string name="home_quick_actions">त्वरित कार्रवाई</string>
+    <string name="search_hint">बस नंबर या रूट खोजें</string>
+</resources>
