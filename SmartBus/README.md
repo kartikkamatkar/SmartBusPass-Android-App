@@ -6,7 +6,7 @@ Beginner-friendly Android app built with Java + XML (no backend).
 - App Name: SmartBus
 - Package: `com.smartbus.app`
 - Min SDK: 24
-- Target SDK: 36
+- Target SDK: 35
 
 ## Implemented
 - Splash screen with simple animation and 2.5s delay
